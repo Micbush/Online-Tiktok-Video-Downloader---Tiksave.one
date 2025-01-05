@@ -25,15 +25,15 @@ Our **[TikTok Video Downloader](https://www.tiksave.one/)** is perfect for savin
 
 Love TikTok photo slideshows? Save them effortlessly with our **[TikTok Slides Downloader](https://www.tiksave.one/tiktok-slides-downloader/)**. This tool extracts all the images in the slideshow and downloads them in their original resolution.
 
-➡️ [Download TikTok Slides](https://www.tiksave.one/tiktok-slides-downloader/)
+➡️ [Download TikTok Slides](https://www.tiksave.one/download-tiktok-slides/)
 
 ---
 
 ## 🎵 TikTok MP3 Downloader
 
-Want to save a TikTok audio track or background music? Use our **[TikTok MP3 Downloader](https://www.tiksave.one/tiktok-mp3-downloader/)** to extract high-quality MP3 files from your favorite TikTok videos.
+Want to save a TikTok audio track or background music? Use our **[TikTok MP3 Downloader](https://www.tiksave.one/download-tiktok-sounds/)** to extract high-quality MP3 files from your favorite TikTok videos.
 
-➡️ [Extract MP3 from TikTok Videos](https://www.tiksave.one/tiktok-mp3-downloader/)
+➡️ [Extract MP3 from TikTok Videos](https://www.tiksave.one/download-tiktok-sound/)
 
 ---
 
